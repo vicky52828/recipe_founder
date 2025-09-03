@@ -19,3 +19,17 @@ Frontend: React.js, CSS
 Backend: Node.js, Express.js
 Database: MySQL
 Tools: Axios, CORS, GitHub
+
+📸 Screenshots
+
+🏠 Home Page
+![Home Page](screenshots/home.png)
+
+📖 Recipe Detail
+![Recipe Detail](screenshots/detail.png)
+
+🛒 Shopping List
+![Shopping List](screenshots/shopping.png)
+
+🌙 Dark Mode
+![Dark Mode](screenshots/dark.png)
